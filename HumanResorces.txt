@@ -1,0 +1,46 @@
+1 1 Jan Kowalski 22 Poland 180 RIGHT_FOOTED
+1 2 Héctor Scarone 30 Holandia 185 LEFT_FOOTED
+1 3 Sándor Kocsis 24 Finlandia 177 RIGHT_FOOTED
+1 4 Zoltán Czibor 20 Wêgry 179 RIGHT_FOOTED
+1 5 Luis Enrique 30 Hiszpania 182 RIGHT_FOOTED
+1 6 Albert Ferrer 25 Hiszpania 187 RIGHT_FOOTED
+1 7 Abelardo Contadore 18 Hiszpania 175 RIGHT_FOOTED
+1 8 Antonio Pinilla 26 Hiszpania 188 LEFT_FOOTED
+1 9 Alfonso Pérez 20 Hiszpania 194 RIGHT_FOOTED 
+1 10 Samuel Eto’o 27 Kamerun 185 RIGHT_FOOTED
+1 11 Javier Mascherano 36 Argentyna 174 RIGHT_FOOTED
+1 12 Javier Saviola 30 Argentyna 176 RIGHT_FOOTED
+1 13 Lionel Messi 27 Argentyna 170 RIGHT_FOOTED
+1 14 Juan Román 17 W³ochy 192 RIGHT_FOOTED
+1 15 Giovani Santos 24 Meksyk 180 LEFT_FOOTED
+1 16 Jakub B³aszczykowski 27 Polska 175 RIGHT_FOOTED
+1 17 Ariel Borysiuk 29 Polska 180 RIGHT_FOOTED
+1 18 Maciej Gajos 30 Polska 178 RIGHT_FOOTED
+1 19 Kamil Grosicki 27 Polska 180 RIGHT_FOOTED
+1 20 Tomasz Jod³owiec 30 Polska 190 LEFT_FOOTED
+1 21 Grzegorz Krychowiak 26 Polska 186 RIGHT_FOOTED
+1 22 Micha³ Kucharczyk 25 Polska 178 RIGHT_FOOTED
+1 23 Karol Linetty 21 Polska 176 RIGHT_FOOTED
+1 24 Krzysztof M¹czyñski 29 Polska 182 RIGHT_FOOTED
+1 25 Sebastian Mila 34 Polska 178 LEFT_FOOTED
+1 26 S³awomir Peszko 31 Polska 173 RIGHT_FOOTED
+1 27 Maciej Rybus 27 Polska 172 RIGHT_FOOTED
+1 28 Bartosz Kapustka 19 Polska 179 RIGHT_FOOTED
+1 29 Piotr Zieliñski 21 Polska 177 LEFT_FOOTED
+1 30 Micha³ ¯yro 24 Polska 189 RIGHT_FOOTED
+1 31 Dawid Kownacki 19 Polska 185 LEFT_FOOTED
+1 32 Robert Lewandowski 28 Polska 184 RIGHT_FOOTED
+1 33 Arkadiusz Milik 24 Polska 186 LEFT_FOOTED
+1 34 £ukasz Teodorczyk 25 Polska 185 RIGHT_FOOTED
+1 35 Patryk Tuszyñski 30 Polska 184 RIGHT_FOOTED
+1 36 Mariusz Stêpiñski 19 Polska 183 LEFT_FOOTED
+1 37 Artur Boruc 26 Polska 193 RIGHT_FOOTED
+1 38 Thiago Cionek 20 Polska 184 RIGHT_FOOTED
+1 39 Kamil Glik 18 Polska 190 RIGHT_FOOTED
+1 40 Artur Jêdrzejczyk 19 Polska 180 RIGHT_FOOTED
+1 41 Tomasz Kêdziora 22 Polska 170 LEFT_FOOTED
+1 42 Marcin Komorowski 32 Polska 185 RIGHT_FOOTED
+2 43 Pep Guardiola 40 Hiszpania 1
+2 44 Adam Nawalka 50 Polska 2
+2 45 Zinedina Zidane 45 Francja 3
+3 46 Roman Abramowicz 50 Rosja 1
