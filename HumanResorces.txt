@@ -1,4 +1,4 @@
-1 1 Jan Kowalski 22 Poland 180 RIGHT_FOOTED
+﻿1 1 Jan Kowalski 22 Poland 180 RIGHT_FOOTED
 1 2 Héctor Scarone 30 Holandia 185 LEFT_FOOTED
 1 3 Sándor Kocsis 24 Finlandia 177 RIGHT_FOOTED
 1 4 Zoltán Czibor 20 Węgry 179 RIGHT_FOOTED
@@ -40,24 +40,24 @@
 1 40 Artur Jędrzejczyk 19 Polska 180 RIGHT_FOOTED
 1 41 Tomasz Kędziora 22 Polska 170 LEFT_FOOTED
 1 42 Marcin Komorowski 32 Polska 185 RIGHT_FOOTED
-1 50 Ahmen Ahmedin 33 ISIS 169 RIGHT_FOOTED
-1 51 Barak Husejn_Obamkejn 29 ISIS 171 LEFT_FOOTED
-1 52 Ahmed Ahmadinov 29 ISIS 172 RIGHT_FOOTED
-1 53 Husejn Husejnov 22 ISIS 163 LEFT_FOOTED
-1 54 Abdul Abdullah 16 ISIS 150 RIGHT_FOOTED
-1 55 Raszid Hamid 12 ISIS 134 LEFT_FOOTED
-1 56 Baszar al_Bilal 15 ISIS 156 RIGHT_FOOTED
-1 57 Fakhir Al_Dzihad 17 ISIS 169 LEFT_FOOTED
-1 58 Hussein Al_Husseimi 18 ISIS 175 RIGHT_FOOTED
-1 59 Imam Ismael_Al_Dzihad 19 ISIS 180 LEFT_FOOTED
-1 60 Mahmud Mahmedov 21 ISIS 157 RIGHT_FOOTED
-1 61 Muhammad Al_Muslim 17 ISIS 161 RIGHT_FOOTED
-1 62 Mustafa Raszid 19 ISIS 173 RIGHT_FOOTED
-1 63 Tajmullah Al_Husajn 21 ISIS 177 RIGHT_FOOTED
+1 50 Ahmen Ahmedin 33 Irak 169 RIGHT_FOOTED
+1 51 Barak Husejn_Obamkejn 29 Irak 171 LEFT_FOOTED
+1 52 Ahmed Ahmadinov 29 Irak 172 RIGHT_FOOTED
+1 53 Husejn Husejnov 22 Irak 163 LEFT_FOOTED
+1 54 Abdul Abdullah 16 Irak 150 RIGHT_FOOTED
+1 55 Raszid Hamid 12 Irak 134 LEFT_FOOTED
+1 56 Baszar al_Bilal 15 Irak 156 RIGHT_FOOTED
+1 57 Fakhir Al_Dzihad 17 Irak 169 LEFT_FOOTED
+1 58 Hussein Al_Husseimi 18 Irak 175 RIGHT_FOOTED
+1 59 Imam Ismael_Al_Dzihad 19 Irak 180 LEFT_FOOTED
+1 60 Mahmud Mahmedov 21 Irak 157 RIGHT_FOOTED
+1 61 Muhammad Al_Muslim 17 Irak 161 RIGHT_FOOTED
+1 62 Mustafa Raszid 19 Irak 173 RIGHT_FOOTED
+1 63 Tajmullah Al_Husajn 21 Irak 177 RIGHT_FOOTED
 2 43 Pep Guardiola 40 Hiszpania 1
 2 44 Adam Nawalka 50 Polska 2
 2 45 Zinedina Zidane 45 Francja 3
 2 49 Osama Binalden 69 Irak 5 
 3 46 Roman Abramowicz 50 Rosja 1
 3 47 Szejk Amin 44 Qatar 1
-3 48 Ahmed Husajn_al_rapist ISIS 7
+3 48 Ahmed Husajn_al_rapist Irak 7

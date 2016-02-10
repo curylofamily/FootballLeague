@@ -10,11 +10,10 @@ import java.util.List;
 public class SocerLeage {
 
     public static void main(String[] args) throws FileNotFoundException, IOException, ArrayIndexOutOfBoundsException {
-        HumanFactory h = HumanFactory.getInstance();
-        BufferedReader inputStream = null;
-        List<Human> list = new ArrayList<Human>();
+       BufferedReader inputStream = null;
         List<Human> socerPlayers = new ArrayList<Human>();
         HumanFactory factory = HumanFactory.getInstance();
+        HumanResorces humanResorces = HumanResorces.getInstance(); 
         try {
             inputStream = new BufferedReader(new FileReader("HumanResorces.txt"));
             String l;
@@ -22,18 +21,20 @@ public class SocerLeage {
                 String[] tmp = l.split(" ");
                 Human obj = factory.create(Integer.parseInt(tmp[0]));
                 obj.initialize(tmp);
-                list.add(obj);
+                humanResorces.list.add(obj);
             }
         } finally {
             if (inputStream != null) {
                 inputStream.close();
             }
         }
-        for (Human element : list) {
-            System.out.println(element);
-        }
+        Iterator iterator = humanResorces.createIterator();
+        while (iterator.hasNext()) {
+			Object person = iterator.next();
+			System.out.println(person);
+		}
         Criteria footballers = new CriteriaFootballer();
-        socerPlayers = footballers.meetCriteria(list);
+        socerPlayers = footballers.meetCriteria(humanResorces.list);
         System.out.println("------------------LISTA PILKARZY--------------------");
         for (Human human : socerPlayers) {
             System.out.println(human);
