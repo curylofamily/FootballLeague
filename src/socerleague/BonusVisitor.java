@@ -13,7 +13,7 @@ public class BonusVisitor implements Visitor{
     
     @Override
     public void visit(SocerPlayer socerPlayer) {
-        socerPlayer.setSalary(socerPlayer.getSalary() * 1.20);
+        socerPlayer.setSalary(socerPlayer.getSalary()*1.20);
     }
 
     @Override
@@ -24,6 +24,10 @@ public class BonusVisitor implements Visitor{
     @Override
     public void visit(Manager manager) {
         manager.setSalary(manager.getSalary() * 1.40);
+    }
+
+    @Override
+    public void visit(Human human) {
     }
     
 }

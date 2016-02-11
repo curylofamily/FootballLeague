@@ -1,6 +1,6 @@
 package socerleague;
 
-public class Manager extends Human {
+public class Manager extends Human  {
 
     private int idTeam;
 
@@ -24,7 +24,7 @@ public class Manager extends Human {
     @Override
     public void initialize(String[] tmp) {
         super.initialize(tmp);
-        setIdTeam(Integer.parseInt(tmp[6]));
+        setIdTeam(Integer.parseInt(tmp[7]));
     }
 
     public void sellSocerPlayer(int idPlayer) {
@@ -32,7 +32,12 @@ public class Manager extends Human {
 
     @Override
     public String toString() {
-        String details = super.toString() + " " + this.idTeam;
+        String details = super.toString() + " " + this.getIdTeam();
         return details;
+    }
+
+    @Override
+    public void accept(Visitor visitor) {
+        visitor.visit(this);
     }
 }

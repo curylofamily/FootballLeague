@@ -1,6 +1,6 @@
 package socerleague;
 
-public abstract class Human {
+public abstract class Human implements Visitable {
     protected int id;
     protected String name;
     protected String surname;
@@ -27,6 +27,7 @@ public abstract class Human {
         setSurname(tmp[3]);
         setAge(Integer.parseInt(tmp[4]));
         setNationality(tmp[5]);
+        setSalary(Double.parseDouble(tmp[6]));
     }
 
     public void setName(String name) {
@@ -87,10 +88,17 @@ public abstract class Human {
 
     @Override
     public String toString() {
-        String details = this.name + " " + this.surname + " " + this.age + " " + this.nationality;
+        String details = this.getName() + " " + this.getSurname() + " " + this.getAge() + " " + this.getNationality() + " " +this.getSalary();
         return details;
     }
 
     public void setAge(byte age) {
     }
+
+    @Override
+    public void accept(Visitor visitor) {
+        visitor.visit(this);
+    }
+
+    
 }

@@ -1,63 +1,46 @@
-Ôªø1 1 Jan Kowalski 22 Poland 180 RIGHT_FOOTED
-1 2 H√©ctor Scarone 30 Holandia 185 LEFT_FOOTED
-1 3 S√°ndor Kocsis 24 Finlandia 177 RIGHT_FOOTED
-1 4 Zolt√°n Czibor 20 Wƒôgry 179 RIGHT_FOOTED
-1 5 Luis Enrique 30 Hiszpania 182 RIGHT_FOOTED
-1 6 Albert Ferrer 25 Hiszpania 187 RIGHT_FOOTED
-1 7 Abelardo Contadore 18 Hiszpania 175 RIGHT_FOOTED
-1 8 Antonio Pinilla 26 Hiszpania 188 LEFT_FOOTED
-1 9 Alfonso P√©rez 20 Hiszpania 194 RIGHT_FOOTED 
-1 10 Samuel Eto‚Äôo 27 Kamerun 185 RIGHT_FOOTED
-1 11 Javier Mascherano 36 Argentyna 174 RIGHT_FOOTED
-1 12 Javier Saviola 30 Argentyna 176 RIGHT_FOOTED
-1 13 Lionel Messi 27 Argentyna 170 RIGHT_FOOTED
-1 14 Juan Rom√°n 17 W≈Çochy 192 RIGHT_FOOTED
-1 15 Giovani Santos 24 Meksyk 180 LEFT_FOOTED
-1 16 Jakub B≈Çaszczykowski 27 Polska 175 RIGHT_FOOTED
-1 17 Ariel Borysiuk 29 Polska 180 RIGHT_FOOTED
-1 18 Maciej Gajos 30 Polska 178 RIGHT_FOOTED
-1 19 Kamil Grosicki 27 Polska 180 RIGHT_FOOTED
-1 20 Tomasz Jod≈Çowiec 30 Polska 190 LEFT_FOOTED
-1 21 Grzegorz Krychowiak 26 Polska 186 RIGHT_FOOTED
-1 22 Micha≈Ç Kucharczyk 25 Polska 178 RIGHT_FOOTED
-1 23 Karol Linetty 21 Polska 176 RIGHT_FOOTED
-1 24 Krzysztof MƒÖczy≈Ñski 29 Polska 182 RIGHT_FOOTED
-1 25 Sebastian Mila 34 Polska 178 LEFT_FOOTED
-1 26 S≈Çawomir Peszko 31 Polska 173 RIGHT_FOOTED
-1 27 Maciej Rybus 27 Polska 172 RIGHT_FOOTED
-1 28 Bartosz Kapustka 19 Polska 179 RIGHT_FOOTED
-1 29 Piotr Zieli≈Ñski 21 Polska 177 LEFT_FOOTED
-1 30 Micha≈Ç ≈ªyro 24 Polska 189 RIGHT_FOOTED
-1 31 Dawid Kownacki 19 Polska 185 LEFT_FOOTED
-1 32 Robert Lewandowski 28 Polska 184 RIGHT_FOOTED
-1 33 Arkadiusz Milik 24 Polska 186 LEFT_FOOTED
-1 34 ≈Åukasz Teodorczyk 25 Polska 185 RIGHT_FOOTED
-1 35 Patryk Tuszy≈Ñski 30 Polska 184 RIGHT_FOOTED
-1 36 Mariusz Stƒôpi≈Ñski 19 Polska 183 LEFT_FOOTED
-1 37 Artur Boruc 26 Polska 193 RIGHT_FOOTED
-1 38 Thiago Cionek 20 Polska 184 RIGHT_FOOTED
-1 39 Kamil Glik 18 Polska 190 RIGHT_FOOTED
-1 40 Artur Jƒôdrzejczyk 19 Polska 180 RIGHT_FOOTED
-1 41 Tomasz Kƒôdziora 22 Polska 170 LEFT_FOOTED
-1 42 Marcin Komorowski 32 Polska 185 RIGHT_FOOTED
-1 50 Ahmen Ahmedin 33 Irak 169 RIGHT_FOOTED
-1 51 Barak Husejn_Obamkejn 29 Irak 171 LEFT_FOOTED
-1 52 Ahmed Ahmadinov 29 Irak 172 RIGHT_FOOTED
-1 53 Husejn Husejnov 22 Irak 163 LEFT_FOOTED
-1 54 Abdul Abdullah 16 Irak 150 RIGHT_FOOTED
-1 55 Raszid Hamid 12 Irak 134 LEFT_FOOTED
-1 56 Baszar al_Bilal 15 Irak 156 RIGHT_FOOTED
-1 57 Fakhir Al_Dzihad 17 Irak 169 LEFT_FOOTED
-1 58 Hussein Al_Husseimi 18 Irak 175 RIGHT_FOOTED
-1 59 Imam Ismael_Al_Dzihad 19 Irak 180 LEFT_FOOTED
-1 60 Mahmud Mahmedov 21 Irak 157 RIGHT_FOOTED
-1 61 Muhammad Al_Muslim 17 Irak 161 RIGHT_FOOTED
-1 62 Mustafa Raszid 19 Irak 173 RIGHT_FOOTED
-1 63 Tajmullah Al_Husajn 21 Irak 177 RIGHT_FOOTED
-2 43 Pep Guardiola 40 Hiszpania 1
-2 44 Adam Nawalka 50 Polska 2
-2 45 Zinedina Zidane 45 Francja 3
-2 49 Osama Binalden 69 Irak 5 
-3 46 Roman Abramowicz 50 Rosja 1
-3 47 Szejk Amin 44 Qatar 1
-3 48 Ahmed Husajn_al_rapist Irak 7
+1 1 Jan Kowalski 22 Poland 3000 180 RIGHT_FOOTED
+1 2 HÈctor Scarone 30 Holandia 3000 185 LEFT_FOOTED
+1 3 S·ndor Kocsis 24 Finlandia 3000 177 RIGHT_FOOTED
+1 4 Zolt·n Czibor 20 WÍgry 3000 179 RIGHT_FOOTED
+1 5 Luis Enrique 30 Hiszpania 3000 182 RIGHT_FOOTED
+1 6 Albert Ferrer 25 Hiszpania 3000 187 RIGHT_FOOTED
+1 7 Abelardo Contadore 18 Hiszpania 3000 175 RIGHT_FOOTED
+1 8 Antonio Pinilla 26 Hiszpania 3000 188 LEFT_FOOTED
+1 9 Alfonso PÈrez 20 Hiszpania 3000 194 RIGHT_FOOTED
+1 10 Samuel Etoío 27 Kamerun 3000 185 RIGHT_FOOTED
+1 11 Javier Mascherano 36 Argentyna 3000 174 RIGHT_FOOTED
+1 12 Javier Saviola 30 Argentyna 3000 176 RIGHT_FOOTED
+1 13 Lionel Messi 27 Argentyna 3000 170 RIGHT_FOOTED
+1 14 Juan Rom·n 17 W≥ochy 3000 192 RIGHT_FOOTED
+1 15 Giovani Santos 24 Meksyk 3000 180 LEFT_FOOTED
+1 16 Jakub B≥aszczykowski 27 Polska 3000 175 RIGHT_FOOTED
+1 17 Ariel Borysiuk 29 Polska 3000 180 RIGHT_FOOTED
+1 18 Maciej Gajos 30 Polska 3000 178 RIGHT_FOOTED
+1 19 Kamil Grosicki 27 Polska 3000 180 RIGHT_FOOTED
+1 20 Tomasz Jod≥owiec 30 Polska 3000 190 LEFT_FOOTED
+1 21 Grzegorz Krychowiak 26 Polska 3000 186 RIGHT_FOOTED
+1 22 Micha≥ Kucharczyk 25 Polska 3000 178 RIGHT_FOOTED
+1 23 Karol Linetty 21 Polska 3000 176 RIGHT_FOOTED
+1 24 Krzysztof MπczyÒski 29 Polska 3000 182 RIGHT_FOOTED
+1 25 Sebastian Mila 34 Polska 3000 178 LEFT_FOOTED
+1 26 S≥awomir Peszko 31 Polska 3000 173 RIGHT_FOOTED
+1 27 Maciej Rybus 27 Polska 3000 172 RIGHT_FOOTED
+1 28 Bartosz Kapustka 19 Polska 3000 179 RIGHT_FOOTED
+1 29 Piotr ZieliÒski 21 Polska 3000 177 LEFT_FOOTED
+1 30 Micha≥ Øyro 24 Polska 3000 189 RIGHT_FOOTED
+1 31 Dawid Kownacki 19 Polska 3000 185 LEFT_FOOTED
+1 32 Robert Lewandowski 28 Polska 3000 184 RIGHT_FOOTED
+1 33 Arkadiusz Milik 24 Polska 3000 186 LEFT_FOOTED
+1 34 £ukasz Teodorczyk 25 Polska 3000 185 RIGHT_FOOTED
+1 35 Patryk TuszyÒski 30 Polska 3000 184 RIGHT_FOOTED
+1 36 Mariusz StÍpiÒski 19 Polska 3000 183 LEFT_FOOTED
+1 37 Artur Boruc 26 Polska 3000 193 RIGHT_FOOTED
+1 38 Thiago Cionek 20 Polska 3000 184 RIGHT_FOOTED
+1 39 Kamil Glik 18 Polska 3000 190 RIGHT_FOOTED
+1 40 Artur JÍdrzejczyk 19 Polska 3000 180 RIGHT_FOOTED
+1 41 Tomasz KÍdziora 22 Polska 3000 170 LEFT_FOOTED
+1 42 Marcin Komorowski 32 Polska 3000 185 RIGHT_FOOTED
+2 43 Pep Guardiola 40 Hiszpania 3000 1
+2 44 Adam Nawalka 50 Polska 3000 2
+2 45 Zinedina Zidane 45 Francja 3000 3
+3 46 Roman Abramowicz 50 Rosja 3000 1

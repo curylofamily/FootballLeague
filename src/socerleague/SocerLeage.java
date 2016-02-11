@@ -11,7 +11,7 @@ public class SocerLeage {
 
     public static void main(String[] args) throws FileNotFoundException, IOException, ArrayIndexOutOfBoundsException {
        BufferedReader inputStream = null;
-        List<Human> socerPlayers = new ArrayList<Human>();
+         List<Human> socerPlayers = new ArrayList<Human>();
         HumanFactory factory = HumanFactory.getInstance();
         HumanResorces humanResorces = HumanResorces.getInstance(); 
         try {
@@ -39,5 +39,13 @@ public class SocerLeage {
         for (Human human : socerPlayers) {
             System.out.println(human);
         }
+        System.out.println("******************************************************");
+        humanResorces.calculateBonus();
+        iterator = humanResorces.createIterator();
+        while (iterator.hasNext()) {
+			Object person = iterator.next();
+			System.out.println(person);
+		}
+        
     }
 }

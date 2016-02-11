@@ -15,7 +15,7 @@ import java.util.List;
  */
 public class HumanResorces  {
     List<Human> list = new ArrayList<Human>();
-    
+//    List<Visitable> elements = new ArrayList<Visitable>();
     public static HumanResorces instance = new HumanResorces();
     public static HumanResorces getInstance(){
         return instance;
@@ -25,8 +25,16 @@ public class HumanResorces  {
     
     public void addHuman(Human human){
         list.add(human);
+        
     }
     
+    public void calculateBonus(){
+
+        BonusVisitor visitor = new BonusVisitor();
+        for(Visitable item: list) {
+            item.accept(visitor);
+        }
+    }
     public Iterator createIterator() {
         return new MenuIterator();
     }
@@ -48,4 +56,7 @@ public class HumanResorces  {
         }
         
     }
+    
+    
+    
 }

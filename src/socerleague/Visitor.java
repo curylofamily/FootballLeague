@@ -17,5 +17,6 @@ package socerleague;
 public interface Visitor {
      public void visit(SocerPlayer socerPlayer);
      public void visit(Coach coach);
-     public void visit(Manager manager);     
+     public void visit(Manager manager);  
+     public void visit(Human human); 
 }
