@@ -3,16 +3,18 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Piotr/Documents/NetBeansProjects/FootballLeague/src/socerleague/SocerLeage.java</file>
-            <file>file:/C:/Users/Piotr/Documents/NetBeansProjects/FootballLeague/src/socerleague/Human.java</file>
-            <file>file:/C:/Users/Piotr/Documents/NetBeansProjects/FootballLeague/src/socerleague/Coach.java</file>
-            <file>file:/C:/Users/Piotr/Documents/NetBeansProjects/FootballLeague/src/socerleague/Iterator.java</file>
-            <file>file:/C:/Users/Piotr/Documents/NetBeansProjects/FootballLeague/src/socerleague/HumanResorces.java</file>
-            <file>file:/C:/Users/Piotr/Documents/NetBeansProjects/FootballLeague/src/socerleague/Visitor.java</file>
-            <file>file:/C:/Users/Piotr/Documents/NetBeansProjects/FootballLeague/src/socerleague/Visitable.java</file>
-            <file>file:/C:/Users/Piotr/Documents/NetBeansProjects/FootballLeague/src/socerleague/BonusVisitor.java</file>
-            <file>file:/C:/Users/Piotr/Documents/NetBeansProjects/FootballLeague/src/socerleague/SocerPlayer.java</file>
-            <file>file:/C:/Users/Piotr/Documents/NetBeansProjects/FootballLeague/src/socerleague/Manager.java</file>
+            <file>file:/home/Zbigniew/NetBeansProjects/FootballLeague/src/socerleague/Manager.java</file>
+            <file>file:/home/Zbigniew/NetBeansProjects/FootballLeague/src/socerleague/CriteriaManager.java</file>
+            <file>file:/home/Zbigniew/NetBeansProjects/FootballLeague/src/socerleague/CriteriaFootballer.java</file>
+            <file>file:/home/Zbigniew/NetBeansProjects/FootballLeague/src/socerleague/BonusVisitor.java</file>
+            <file>file:/home/Zbigniew/NetBeansProjects/FootballLeague/src/socerleague/HumanResorces.java</file>
+            <file>file:/home/Zbigniew/NetBeansProjects/FootballLeague/src/socerleague/Visitor.java</file>
+            <file>file:/home/Zbigniew/NetBeansProjects/FootballLeague/src/socerleague/Coach.java</file>
+            <file>file:/home/Zbigniew/NetBeansProjects/FootballLeague/src/socerleague/SocerTeam.java</file>
+            <file>file:/home/Zbigniew/NetBeansProjects/FootballLeague/src/socerleague/Visitable.java</file>
+            <file>file:/home/Zbigniew/NetBeansProjects/FootballLeague/src/socerleague/Human.java</file>
+            <file>file:/home/Zbigniew/NetBeansProjects/FootballLeague/src/socerleague/Criteria.java</file>
+            <file>file:/home/Zbigniew/NetBeansProjects/FootballLeague/src/socerleague/Footed.java</file>
         </group>
     </open-files>
 </project-private>
