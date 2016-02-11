@@ -1,6 +1,6 @@
 package socerleague;
 
-public class SocerPlayer extends Human {
+public class SocerPlayer extends Human implements Visitable {
 
     private int height;
 
@@ -43,5 +43,10 @@ public class SocerPlayer extends Human {
     public String toString() {
         String details = super.toString() + " " + this.height + " " + this.footed;
         return details;
+    }
+
+    @Override
+    public void accept(Visitor visitor) {
+        visitor.visit(this);
     }
 }

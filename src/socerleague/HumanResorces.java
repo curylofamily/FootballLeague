@@ -13,7 +13,7 @@ import java.util.List;
  * @author Piotr Curyło
  * 
  */
-public class HumanResorces {
+public class HumanResorces  {
     List<Human> list = new ArrayList<Human>();
     
     public static HumanResorces instance = new HumanResorces();
