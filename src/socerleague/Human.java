@@ -1,6 +1,6 @@
 package socerleague;
 
-public abstract class Human implements Visitable {
+public abstract class Human implements Visitable, MyCloneableInterface {
     protected int id;
     protected String name;
     protected String surname;
@@ -99,6 +99,9 @@ public abstract class Human implements Visitable {
     public void accept(Visitor visitor) {
         visitor.visit(this);
     }
-
     
+    @Override
+    public Human clone() throws CloneNotSupportedException{
+        return (Human)super.clone();
+    }
 }

@@ -1,28 +1,37 @@
 package socerleague;
 
+import java.util.Map;
+import java.util.TreeMap;
+
+
+
 public class HumanFactory {
 
     private static HumanFactory instance = new HumanFactory();
-
+    private TreeMap<Integer, Human> objectsMap = new TreeMap<Integer, Human>();
     private HumanFactory() {
     }
 
     public static HumanFactory getInstance() {
         return instance;
     }
+    
+    public void registerType(Integer id, Human type){
+        objectsMap.put(id, type);
+    }
 
     public Human create(int id) {
-        if (id == 0) {
+        try
+        {
+            if(objectsMap.containsKey(id)){
+                return objectsMap.get(id).clone();
+            }else{
+                return null;
+            }
+        }catch(CloneNotSupportedException exc)
+        {
             return null;
         }
-        if (id == 1) {
-            return new SocerPlayer();
-        } else if (id == 2) {
-            return new Coach();
-        } else if (id == 3) {
-            return new Manager();
-        }
-        return null;
     }
 
     public Human create(String fileRow) {

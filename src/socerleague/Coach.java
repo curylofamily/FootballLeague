@@ -1,6 +1,6 @@
 package socerleague;
 
-public class Coach extends Human  {
+public class Coach extends Human {
 
     int idTeam;
 
@@ -36,5 +36,11 @@ public class Coach extends Human  {
     @Override
     public void accept(Visitor visitor) {
         visitor.visit(this);
+    }
+    
+    @Override
+    public Coach clone() throws CloneNotSupportedException {
+        System.out.println("Cloning Coach object..");
+        return (Coach) super.clone();
     }
 }

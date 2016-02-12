@@ -49,4 +49,10 @@ public class SocerPlayer extends Human  {
     public void accept(Visitor visitor) {
         visitor.visit(this);
     }
+    
+    @Override
+    public SocerPlayer clone() throws CloneNotSupportedException {
+        System.out.println("Cloning SocerPlayer object..");
+        return (SocerPlayer) super.clone();
+    }
 }

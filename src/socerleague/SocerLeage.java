@@ -13,6 +13,9 @@ public class SocerLeage {
        BufferedReader inputStream = null;
          List<Human> socerPlayers = new ArrayList<Human>();
         HumanFactory factory = HumanFactory.getInstance();
+        factory.registerType(1, new SocerPlayer());
+        factory.registerType(2, new Coach());
+        factory.registerType(3, new Manager());
         HumanResorces humanResorces = HumanResorces.getInstance(); 
         try {
             inputStream = new BufferedReader(new FileReader("HumanResorces.txt"));

@@ -40,4 +40,10 @@ public class Manager extends Human  {
     public void accept(Visitor visitor) {
         visitor.visit(this);
     }
+    
+    @Override
+    public Manager clone() throws CloneNotSupportedException {
+        System.out.println("Cloning Manager object..");
+        return (Manager) super.clone();
+    }
 }
